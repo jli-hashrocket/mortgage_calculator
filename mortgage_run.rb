@@ -1,4 +1,3 @@
-require 'pry'
 require 'csv'
 require_relative 'home_purchase_option'
 
